@@ -1,0 +1,16 @@
+.logo{
+    position: relative;
+}
+
+.boxes{
+    width: 30%;
+    display:flex;
+    justify-content:space-between;
+    position:relative;
+    .box{
+        background-color: green;
+        height: 30px;
+        width: 30px;
+        border-radius: 5px;
+    }
+}
